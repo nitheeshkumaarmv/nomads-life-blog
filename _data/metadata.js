@@ -3,6 +3,7 @@ export default {
 	url: "https://example.com/",
 	language: "en",
 	description: "Experiencing Life!",
+	fav_url: "/favicon/favicon.ico",
 	author: {
 		name: "Your Name Here",
 		email: "youremailaddress@example.com",
